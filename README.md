@@ -8,4 +8,4 @@ This is a simple example of building and training a LSTM network for text genera
 - Build a simple LSTM model.
 - Train the model on prepared data.
 - Prepare seed text.
-- Use the model for generating text.
+- Use the model for generating text.(The result is mostly garbage but then it was a very simple model!.)
